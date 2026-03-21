@@ -6,6 +6,22 @@
 - 📫 How to reach me **maichithanh276@gmail.com**
 
 <div align="center">
+  <h1>Languages & Tools</h1>
+</div>
+
+<div align="center"> 
+  <p align="center"> 
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Nmap-logo.svg" alt="Nmap" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> 
+    <img src="https://img.icons8.com/fluency/48/000000/cyber-security.png" alt="Cyber Security" width="40" height="40"/> 
+  </p> 
+</div>
+
+<div align="center">
   <strong>
    <H1>GitHub Stats</H1>
 </div>
