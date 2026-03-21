@@ -13,9 +13,9 @@
   <p align="center"> 
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="40" height="40"/> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Nmap-logo.svg" alt="Nmap" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png" alt="Kali Linux" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wireshark_Icon.png/512px-Wireshark_Icon.png" alt="Wireshark" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Nmap-logo.svg/512px-Nmap-logo.svg.png" alt="Nmap" width="40" height="40"/> 
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> 
     <img src="https://img.icons8.com/fluency/48/000000/cyber-security.png" alt="Cyber Security" width="40" height="40"/> 
   </p> 
